@@ -31,29 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Note Taker",
+    description: "A simple private note taking android application.",
+    url: "https://github.com/Jaswanth-Pillella/Note_Taker",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Automated Attendance",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Automated Attendance of participants using face recognition",
+    url: "https://github.com/Jaswanth-Pillella/FaceRecognition",
   },
   {
-    title: "My Resume Site",
+    title: "Alzheimer's disease Prediction using gene data",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Utilizing SVM and CNN to predit Alzheimer's disease",
+    url: "https://github.com/Jaswanth-Pillella/Utilizing-SVM-CNN-to-predict-Alzheimers-disease",
   },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+  // {
+  //   title: "GitHub Codespaces and github.dev",
+  //   description:
+  //     "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+  //   url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  // },
 ];
 
 const Portfolio = () => {
